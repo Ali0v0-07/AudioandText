@@ -16,7 +16,7 @@ namespace AudioandTextConversion
         private static string apiId = "*";
         private static string apiKey = "*";
         private static string apiSecret = "*";
-        private static string filePath = @"D:\C#Code\ConsoleApplication1\xfyunAPI\test.pcm";
+        private static string filePath = @"*";
         public void Run()
         {
             Init();
@@ -34,7 +34,7 @@ namespace AudioandTextConversion
 
         private void UseTts()
         {
-            WsTts wsTts = new WsTts(apiId, apiKey, apiSecret, "今天是2023年3月17日");
+            WsTts wsTts = new WsTts(apiId, apiKey, apiSecret, "你的输入文字");
             var url= wsTts.create_url("tts");
             //Console.WriteLine(url);
             WebSocket ws = wsTts.GetWebSocket(url);
