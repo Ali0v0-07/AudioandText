@@ -1,0 +1,9 @@
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\bin\Debug\AudioandTextConversion.exe
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\bin\Debug\AudioandTextConversion.pdb
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\bin\Debug\Newtonsoft.Json.dll
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\bin\Debug\websocket-sharp.dll
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\bin\Debug\Newtonsoft.Json.xml
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\bin\Debug\websocket-sharp.xml
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\obj\Debug\AudioandTextConversion.csprojResolveAssemblyReference.cache
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\obj\Debug\AudioandTextConversion.exe
+D:\C#Code\AudioandTextConversion\AudioandTextConversion\obj\Debug\AudioandTextConversion.pdb
