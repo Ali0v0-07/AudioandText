@@ -14,7 +14,9 @@ namespace AudioandTextConversion
     {
         public static void Main(string[] args)
         {
-            XFapi.Run();
+            XFapi xFapi = new XFapi();
+            xFapi.Run();
+            Console.ReadLine();
         }
     }
 }

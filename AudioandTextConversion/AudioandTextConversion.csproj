@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WsIat.cs" />
+    <Compile Include="WsParam.cs" />
+    <Compile Include="WsTts.cs" />
     <Compile Include="XFapi.cs" />
   </ItemGroup>
   <ItemGroup>
